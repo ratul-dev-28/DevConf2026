@@ -44,8 +44,6 @@ This project helped me strengthen my understanding of frontend development funda
 - How to work with typography, spacing, colors, and visual hierarchy
 - How to create reusable UI patterns such as cards and buttons
 - How to make layouts responsive across different screen sizes
-- How to work with local images and assets
-- How relative file paths work in HTML and CSS
 - How to use Git and GitHub for version control
 - How to deploy a static website using GitHub Pages
 - How AI can be used as a supporting tool during the design and development process
@@ -53,13 +51,11 @@ This project helped me strengthen my understanding of frontend development funda
 Most importantly, I learned that good frontend development is not only about making a page look attractive — it is also about writing organized, maintainable, and responsive code.
 
 
+<h2>🔗 Live Website:</h2>
+[DevConf 2026](https://ratul-dev-28.github.io/DevConf2026/)
 
-🔗 Live Website:
-[Add your GitHub Pages URL here.
-](https://ratul-dev-28.github.io/DevConf2026/)
 
-**📚 Assignment Context**
-
+<h3>📚 Assignment Context</h3>
 This project was created as Assignment 01 for the Programming Hero Bootcamp — Batch 14.
 
 The assignment focused on implementing a conference landing page from a provided design while practicing core HTML and CSS concepts.
