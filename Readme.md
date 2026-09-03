@@ -1,4 +1,4 @@
-🚀 DevConf 2026
+<h1>🚀 DevConf 2026</h1>
 
 A modern, responsive conference landing page built for DevConf 2026, focusing on clean UI, structured layouts, responsive design, and practical HTML & CSS implementation.
 
