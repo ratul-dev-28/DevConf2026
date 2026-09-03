@@ -51,8 +51,10 @@ This project helped me strengthen my understanding of frontend development funda
 Most importantly, I learned that good frontend development is not only about making a page look attractive — it is also about writing organized, maintainable, and responsive code.
 
 
-<h2>🔗 Live Website:</h2>
+## 🔗 Live Website
+
 [DevConf 2026](https://ratul-dev-28.github.io/DevConf2026/)
+
 
 
 <h3>📚 Assignment Context</h3>
